@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+    "title": "Bell Bottom",
+    "actor": "Akshay Kumar"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.gulte.com/wp-content/uploads/2021/08/Sher.jpg",
+    "title": "Shershah",
+    "actor": "Kiara"
+  },
+  {
+    "id": 3,
+    "image": "https://image.songsuno.com/movie-images/original/movie/sultan/sultan-poster-anushka-sharma-salman-khan.jpg",
+    "title": "Sultan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id" : 4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQ1Yzc2NDYtN2RjNC00ZGIyLWJkMjItMDlkODVhNjg0OTczXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "title": "Thappad",
+    "actor": "Tapsee Pannu"
+  }
+]
