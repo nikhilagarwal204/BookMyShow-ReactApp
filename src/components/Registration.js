@@ -25,7 +25,7 @@ function Registration() {
     };
     // userDetails.username = 'nik';
     // console.log(userDetails);
-    await axios.post("http://localhost:5000/user-register", userDetails)
+    await axios.post("https://book-my-show-backend-1.herokuapp.com/user-register", userDetails)
       .then((data) => {
         Swal.fire({
           title: `<strong>${data.data.message}</strong>`,
@@ -41,7 +41,7 @@ function Registration() {
           showCloseButton: true,
         })
       );
-    // const response = await axios.post('http://localhost:5000/user-register', userDetails);
+    // const response = await axios.post('https://book-my-show-backend-1.herokuapp.com/user-register', userDetails);
     // console.log(response);
   }
 
